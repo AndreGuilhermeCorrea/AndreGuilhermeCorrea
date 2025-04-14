@@ -4,17 +4,13 @@
 
 ### 🧩 Sobre mim:
 
-Estudante com experiência prática em desenvolvimento Full-Stack e Inteligência Artificial, adquirida em uma trilha de IA/ML na Compass, projetos acadêmicos e pessoais. Durante essas experiências, desenvolvi competências em programação com Python, JavaScript, HTML e CSS, além de práticas de versionamento de código com Git.
+Profissional com formação técnica e tecnológica, experiência prática em desenvolvimento de soluções Full-Stack, IA/ML e aplicações em nuvem. Atuei em projetos acadêmicos e pessoais nas áreas de OCR, automação de documentos, e integração com serviços AWS (Lambda, Bedrock, SageMaker, entre outros).
+
+Além da tecnologia, possuo formação em logística e enfermagem, com vivência em atendimento ao público, transporte de emergência e suporte técnico.
 
 Recentemente, conquistei a certificação AWS Cloud Practitioner, consolidando meus conhecimentos em computação em nuvem.
 
 Minha vivência em projetos me permitiu desenvolver habilidades práticas, como estruturação de dados em bancos SQL e NoSQL, além de implementar pipelines de automação e orquestração de tarefas. 
-
----
-
-### 🎯 Objetivo:
-
-Estou motivado a aprofundar meus conhecimentos em tecnologias para um dia me tornar um dev Full-Stack e Cloud, buscando contribuir com soluções inovadoras e crescer como profissional. 
 
 ---
 
