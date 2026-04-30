@@ -22,14 +22,6 @@ Minha vivência em projetos me permitiu desenvolver habilidades práticas, como 
 
 ---
 
-### 📊 GitHub Stats:
-
-<div>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreGuilhermeCorrea&theme=dark&layout=compact"/>
-</div>
-
----
-
 ## 🛠️ Tecnologias que utilizo ou utilizei:
 
 #### 🧑‍💻 Linguagens de Programação
